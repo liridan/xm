@@ -103,6 +103,9 @@ $c: 20;
         height: 2.5rem;
         background: #EBEBEB;
         border-top: 1px solid #aaa;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         ul {
             @extend %gdw;
             display: flex;
